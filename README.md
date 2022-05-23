@@ -1,2 +1,2 @@
 # 4.sem-eksamen
-Dette repository er til min afgangseksamen på KEA som multimediedesigner.
+Dette Github repository er til mit afgangsprojekt på KEA som multimediedesigner. Mit projekt handler om Kulturstedet Springbrættet 6a.
